@@ -1,0 +1,8 @@
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\bin\Debug\抽象类练习.exe.config
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\bin\Debug\抽象类练习.exe
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\bin\Debug\抽象类练习.pdb
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\obj\Debug\抽象类练习.csproj.AssemblyReference.cache
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\obj\Debug\抽象类练习.csproj.SuggestedBindingRedirects.cache
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\obj\Debug\抽象类练习.csproj.CoreCompileInputs.cache
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\obj\Debug\抽象类练习.exe
+E:\商文正同学的素材汇总\VS\C#\静态 抽象\抽象类练习\obj\Debug\抽象类练习.pdb
